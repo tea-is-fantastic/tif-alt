@@ -11,6 +11,7 @@ DATA_PATH = os.path.join(APP_PATH, 'data')
 TEMPLATE_PATH = os.path.join(APP_PATH, 'templates')
 ACTION_PATH = os.path.join(APP_PATH, 'actions')
 SCRIPT_PATH = os.path.join(APP_PATH, 'scripts')
+SNIPPET_PATH = os.path.join(APP_PATH, 'snippets')
 TEMP_PATH = os.path.join(APP_PATH, 'temp')
 OUTPUT_PATH = os.path.join(APP_PATH, 'output')
 

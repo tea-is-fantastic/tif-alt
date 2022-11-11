@@ -1,6 +1,6 @@
 # from scripts.tif_process import process
-from actions.action_rn_android import bootsplash
+from actions.action_rn_android import navigation
 
 if __name__ == '__main__':
-    bootsplash()
+    navigation()
     # process()
